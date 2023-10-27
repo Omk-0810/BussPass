@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009473387252",
+    "project_id": "buspassgen",
+    "storage_bucket": "buspassgen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009473387252:android:5e72eda4f0a8c438b47ca1",
+        "android_client_info": {
+          "package_name": "com.example.busspassgen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi7rMc6meC5wSGCQ8vKmDsCu9ead5H6sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
